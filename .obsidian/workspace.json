@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 550.5
   },
   "right": {
     "id": "af2ce1406b1ac60e",
@@ -184,8 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7a10a0f1d0864be",
+  "active": "faa5484e38470cd6",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "README.md",
     "新建 文本文档.txt"
   ]
 }
